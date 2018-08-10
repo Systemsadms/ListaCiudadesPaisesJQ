@@ -1,0 +1,5 @@
+#form1           {text-align:center;}
+#form1 span      {display:inline-block;width:100px;text-align:left;}
+#form1 input[type=submit]   {margin-top:20px;}
+select           {width:250px;}
+.error           {color:Red;font-weight:bold;margin:10px;}
